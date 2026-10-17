@@ -1,6 +1,6 @@
 /****************
-Ma sinh vien: 202419074
-Ho ten: Vũ Thành Lâm
+Mã sinh viên: 202419074
+Họ tên: Vũ Thành Lâm
 ****************/
 
 #include <iostream>
